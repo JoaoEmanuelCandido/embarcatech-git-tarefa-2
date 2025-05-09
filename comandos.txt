@@ -27,4 +27,8 @@ git commit -m "Correção de Conflito de Merge"
 git status
 git checkout -b add-comandos
 git status
-
+nano comandos.txt
+git add .
+git commit -m "Arquivo contendo os comandos Comandos"
+git remote add origin-atividade https://github.com/JoaoEmanuelCandido/embarcatech-git-tarefa-2.git
+git push -u origin-atividade main
