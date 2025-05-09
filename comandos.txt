@@ -31,4 +31,10 @@ nano comandos.txt
 git add .
 git commit -m "Arquivo contendo os comandos Comandos"
 git remote add origin-atividade https://github.com/JoaoEmanuelCandido/embarcatech-git-tarefa-2.git
+nano comandos.txt
+git add .
+git commit -m "Adição dos últimos comandos feitos"
+nano comandos.txt
+git add .
+git commit -m "Correção da ordem" 
 git push -u origin-atividade main
